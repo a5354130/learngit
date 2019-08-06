@@ -1,6 +1,8 @@
-Git log:显示从最近到最远的提交日志
-Git log --pretty=oneline:git log的减缩版
-Git reset --hard HEAD^：从当前版本回退到上一个版本
-Cat readme.txt:可以查看当前是什么版本
-Git diff:查看difference
-Git status:显示文件当前状态
+git log:显示从最近到最远的提交日志
+git log --pretty=oneline:git log的减缩版
+git reset --hard HEAD^：从当前版本回退到上一个版本
+cat readme.txt:可以查看当前是什么版本
+git diff:查看difference
+git status:显示文件当前状态
+git add 文件名，把相应文件放进git仓库内
+git commit -m"append GPL":提交更改
