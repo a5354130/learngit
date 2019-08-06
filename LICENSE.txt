@@ -1,0 +1,6 @@
+Git log:显示从最近到最远的提交日志
+Git log --pretty=oneline:git log的减缩版
+Git reset --hard HEAD^：从当前版本回退到上一个版本
+Cat readme.txt:可以查看当前是什么版本
+Git diff:查看difference
+Git status:显示文件当前状态
