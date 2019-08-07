@@ -1,6 +1,7 @@
 git log:显示从最近到最远的提交日志
 git log --pretty=oneline:git log的减缩版
 git reset --hard HEAD^：从当前版本回退到上一个版本
+git reset --hard xxxxx:退回到对应的版本
 cat readme.txt:可以查看当前是什么版本的内容
 git diff:查看difference
 git status:显示文件当前状态
