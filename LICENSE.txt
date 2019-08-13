@@ -6,4 +6,5 @@ cat readme.txt:可以查看当前是什么版本的内容
 git diff:查看difference
 git status:显示文件当前状态
 git add 文件名，把相应文件放进git仓库内
-git commit -m"append GPL":提交更改
+git commit -m"append GPL":提交版本的更改
+git diff HEAD -- readme.txt:可以查看readme.txt的工作区和版本库里面最新版本的区别
